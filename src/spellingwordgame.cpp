@@ -44,6 +44,7 @@ int main() {
 
 	srand(static_cast<unsigned int>(time(0))); //seed random number generator
 
+seb
 	//this for loop fills in the wordList array with the spelling words.
 	cout << "Please type in your spelling words, pressing Enter after each one:\n";
 	for (n = 0; n < LENGTH; n++) {
